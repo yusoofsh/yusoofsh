@@ -1,5 +1,4 @@
 [![header](header.gif)](https://yusoof.io)
-<br/>
 
 
 ---
@@ -11,7 +10,6 @@
 - 🌱 Learning all about **Open Source**.
 - 💬 Ask me about **Mobile Development** or... memes?
 - ⚡️ Fun fact: I live ***alone***.
-<br/>
 
 
 ---
