@@ -21,3 +21,4 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fouyos&theme=radical&layout=compact&langs_count=8">
 </p>
 </details>
+<br/>  
