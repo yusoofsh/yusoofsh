@@ -2,7 +2,7 @@
 
 
 ---
-### 👨‍🚀 ***A full-time mobile developer while invest a little-time study machine leaning. Working remotely since 2019***
+### 👨‍🚀 ***A full-time Mobile Developer while invest a little-time study ML/AI. Working remotely since 2019***
 
 - 🏢 I'm currently working at **Arah Akakia Teknologi** & **360 Solusi Teknologi**.
 - ⚙️ I use daily: `.dart`, `.ipynb`, `.ts` and **relevant technologies**.
