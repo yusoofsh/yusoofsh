@@ -1,10 +1,10 @@
-[![header](header.gif)](https://yusoof.io)
+[![header](header.gif)](https://wecy.dev)
 
 
 ---
 ### 👨‍🚀 ***A full-time Mobile Developer while invest a little-time study ML/AI. Working remotely since 2019***
 
-- 🏢 I'm currently working at **Arah Akakia Teknologi** & **360 Solusi Teknologi**.
+- 🏢 I'm currently working at **[Cloud Thought](https://cloudthought.co)**.
 - ⚙️ I use daily: `.dart`, `.ipynb`, `.ts` and **relevant technologies**.
 - 🌍 I'm mostly active within the local **Flutter Community**.
 - 🌱 Learning all about **Open Source**.
