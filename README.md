@@ -16,6 +16,6 @@
 <details open>
 <summary> 🤓 <b>Statistics</b></summary>
 <br>
-<img src = "https://github-readme-stats.vercel.app/api?username=fouyos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fouyos&theme=radical&layout=compact&langs_count=8">
+<img src = "https://github-readme-stats.vercel.app/api?username=yusoofsh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yusoofsh&theme=radical&layout=compact&langs_count=8">
 </details>
