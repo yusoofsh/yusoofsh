@@ -2,7 +2,7 @@
 
 
 ---
-### 👨‍🚀 ***A full-time Mobile Developer while invest a little-time study ML/AI. Working remotely since 2019***
+### 👨‍🚀 ***Full time: Full Stack Developer. While investing a little-time study ML/AI. Working remotely since 2019***
 
 - 🏢 I'm currently working at **[Cloud Thought](https://cloudthought.co)**.
 - ⚙️ I use daily: `.dart`, `.ipynb`, `.ts` and **relevant technologies**.
