@@ -2,14 +2,12 @@
 
 
 ---
-### 👨‍🚀 ***Full time: Full Stack Developer. While investing a little-time study ML/AI. Working remotely since 2019***
+### 👨‍🚀 ***Full time: Full Stack Engineer. Working remotely since 2019***
 
-- 🏢 I'm currently working at **[Cloud Thought](https://cloudthought.co)**.
-- ⚙️ I use daily: `.dart`, `.ipynb`, `.ts` and **relevant technologies**.
-- 🌍 I'm mostly active within the local **Flutter Community**.
-- 🌱 Learning all about **Open Source**.
-- 💬 Ask me about **Mobile Development** or... memes?
-- ⚡️ Fun fact: I live ***alone***.
+- 🏢 I'm currently working at **[?]()**.
+- ⚙️ I use daily: `.ts`, devops and **relevant technologies**.
+- 🌱 Learning all about **Technology Advancement**.
+- 💬 Ask me about **React** or... memes?
 
 
 ---
